@@ -1,0 +1,42 @@
+[
+    {
+        "G001": {
+            "nombre": "DOOM Eternal",
+            "precio": 699.0,
+            "inventario": 5,
+            "vendidos": 2
+        }
+    },
+    {
+        "G002": {
+            "nombre": "Minecraft",
+            "precio": 499.0,
+            "inventario": 14,
+            "vendidos": 1
+        }
+    },
+    {
+        "G003": {
+            "nombre": "The Legend of Zelda: TOTK",
+            "precio": 1199.0,
+            "inventario": 10,
+            "vendidos": 0
+        }
+    },
+    {
+        "G004": {
+            "nombre": "Super Mario Bros. Wonder",
+            "precio": 999.0,
+            "inventario": 10,
+            "vendidos": 0
+        }
+    },
+    {
+        "G005": {
+            "nombre": "Hollow Knight",
+            "precio": 249.0,
+            "inventario": 10,
+            "vendidos": 0
+        }
+    }
+]
