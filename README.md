@@ -1,7 +1,7 @@
 TIENDA GAMEZONE
 =
 
-Use ia para el readme.md 
+Use ia para el formato del readme
 
 El sistema permite al usuario, ver el catalogo completo, buscar juegos mediante el Codigo de cada juego,ver su carrito, manejar productos en su carrito mediante el Codigo de un juego. Finalizar la compra, con un ticket que muestra los productos, precios, descuentos y impuestos. Mostrando un total redondeado
 
